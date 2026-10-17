@@ -1,0 +1,2 @@
+a="NAVIN"
+print(a)
